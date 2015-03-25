@@ -1,1 +1,5 @@
-scripts: make
+language: cpp
+before_script: ls
+scripts: 
+	-make -C all
+
