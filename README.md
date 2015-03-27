@@ -8,6 +8,6 @@
 * sudo make install
 
 ### Status
-[![Build Status](https://travis-ci.org/heisenbert/norbeshell.svg?branch=mini_shell)](https://travis-ci.org/heisenbert/norbeshell)
+* [![Build Status](https://travis-ci.org/heisenbert/norbeshell.svg?branch=mini_shell)](https://travis-ci.org/heisenbert/norbeshell) TravisCI
 
-[![Build Status](http://phox.jenknet.norbert-ruehl.de/buildStatus/icon?job=norbe_shell)](http://phox.jenknet.norbert-ruehl.de/job/norbe_shell/)
+* [![Build Status](http://phox.jenknet.norbert-ruehl.de/buildStatus/icon?job=norbe_shell)](http://phox.jenknet.norbert-ruehl.de/job/norbe_shell/) Jenkins(phox1)
