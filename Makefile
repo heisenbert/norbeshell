@@ -12,7 +12,7 @@ CP=cp
 USER_SRCS = $(wildcard src/*.cpp)
 # Objects
 USER_OBJECTS = $(USER_SRCS:.cpp=.o)
-CFLAGS=-c -Wall $(INCLUDES)
+CFLAGS=-c -Wall
 $(PROJ_NAME).release.exe: $(USER_OBJECTS)
 	$(CC) $(USER_OBJECTS)  -o $@
 
