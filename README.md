@@ -8,5 +8,5 @@
 * sudo make install
 
 ### Status
- [![Build Status](https://travis-ci.org/heisenbert/norbeshell.svg?branch=mini_shell)](https://travis-ci.org/heisenbert/norbeshell) 
+ [![Build Status](https://travis-ci.org/norbekaiser/norbeshell.svg?branch=mini_shell)](https://travis-ci.org/norbekaiser/norbeshell) 
 
